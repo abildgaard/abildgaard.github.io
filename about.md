@@ -1,5 +1,8 @@
 # Michael Løfquist
 
+![Image](./images/me-myself-I.jpg)
+
+
 Michael Løfquist is a Danish born writer, photographer, filmmaker, and prolific traveller. Educated in Denmark and Ireland, he has worked, studied or resided in numerous countries around the world. 
 
 Combining his passion for travel and foreign cultures Michael has produced several visceral photoessays from Cuba, China and Japan. A lengthy photographic journey across China to and around Xinjiang’s Taklamakan Desert resulted in a thirty minute travelogue of exceptional imagery and impressions from this troubled region.
