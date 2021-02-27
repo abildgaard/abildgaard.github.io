@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+#Michael Løfquist
+
+Danish writer | occasional filmmaker | photographer | [About]( https://abildgaard.github.com/gh-pages/about.md)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/abildgaard/guishen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
