@@ -3,4 +3,4 @@
 
 ![Image](/images/me-myself-I.jpg) 
 
-#### | writer | occasional filmmaker | photographer | 
+##### | writer | occasional filmmaker | photographer | 
