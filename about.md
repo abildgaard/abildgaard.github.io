@@ -23,4 +23,4 @@ Urban Ennui [free iBook](http://apple.co/2g8ifAF)
 
 ## Self Portait
 
-![Image](./images/me-myself-I.jpg) 
+![Image](/images/me-myself-I.jpg) 
