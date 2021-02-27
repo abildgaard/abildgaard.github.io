@@ -1,6 +1,6 @@
-#Michael Løfquist
+# Michael Løfquist
 
-Danish writer | occasional filmmaker | photographer | [About]( https://abildgaard.github.com/gh-pages/about.md)
+### Danish writer | occasional filmmaker | photographer | [About]( https://abildgaard.github.com/gh-pages/about.md)
 
 
 
