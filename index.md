@@ -6,4 +6,4 @@
 ![Image](/images/me-myself-I.jpg) 
 
 
-##### | writer | occasional filmmaker | photographer | 
+##### writer | occasional filmmaker | occasional photographer | software solution architect | ios developer
