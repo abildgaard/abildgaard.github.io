@@ -1,6 +1,6 @@
 # Michael Løfquist
 
-### writer | occasional filmmaker | photographer | [about](http://abildgaard.github.com/guishen/gh-pages/about.md)
+### writer | occasional filmmaker | photographer | [about](http://abildgaard.github.com/guishen/about.md)
 
 
 
