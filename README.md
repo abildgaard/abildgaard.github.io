@@ -1,3 +1,3 @@
 ### Michael Lofquist
 
-Writer | Filmmaker | Photographer | Software Solution Architect | iOS Developer | Innovator
+Writer | Filmmaker | | Software Solution Architect | iOS Developer | Innovator
